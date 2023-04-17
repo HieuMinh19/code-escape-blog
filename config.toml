@@ -1,0 +1,4 @@
+baseURL = 'http://felix_lm.dev/'
+languageCode = 'en-us'
+title = 'code-escape welcome'
+theme = "hello-friend"

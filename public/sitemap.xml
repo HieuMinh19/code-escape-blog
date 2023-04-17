@@ -2,10 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://felix_lm.dev/categories/</loc>
+    <loc>/</loc>
+    <lastmod>2023-04-17T22:07:02+07:00</lastmod>
   </url><url>
-    <loc>http://felix_lm.dev/</loc>
+    <loc>/posts/introduces/</loc>
+    <lastmod>2023-04-17T22:07:02+07:00</lastmod>
   </url><url>
-    <loc>http://felix_lm.dev/tags/</loc>
+    <loc>/posts/</loc>
+    <lastmod>2023-04-17T22:07:02+07:00</lastmod>
+  </url><url>
+    <loc>/posts/my-first-post/</loc>
+    <lastmod>2023-03-25T00:05:13+07:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/tags/</loc>
   </url>
 </urlset>

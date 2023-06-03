@@ -9,6 +9,7 @@
       </title>
     {{ end }}
     {{ partial "head.html" . }}
+    <script defer src="/_vercel/insights/script.js"></script>
   </head>
   <body {{ with $.Site.Params.defaultTheme -}} class="{{ printf "%s-theme" . }}" {{- end }}>
     <div class="container">

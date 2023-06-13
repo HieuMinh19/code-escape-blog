@@ -11,7 +11,7 @@ Chào các bạn 👋, mình là `code escape blog`. Đây là bài viết đầ
 - Ngoài ra, việc chia sẻ kiến thức cũng giúp mình củng cố lại. Đương nhiên là bất cứ thứ gì mình chia sẻ lên đây thì mình cũng phải tìm hiểu trước để còn phản biện (nôm na là chửi lộn 😁) cho đọc giả của mình.
 # Nội dung chia sẻ của Blog là gì?
 - Đương nhiên nội dung chính của blog vẫn sẽ là về những công nghệ hay ho, những kinh nghiệm mà mình tích luỹ được trong quá trình làm việc.
-- Ngoài ra, mình cũng muốn xem trang blog này như là một nơi mình tâm sự cùng ae. Ngoài những giờ code thuê, ae mình còn có những thứ hay ho, vui nhộn khác trong cuộc sống cần dc loan toả :).
+- Ngoài ra, mình cũng muốn xem trang blog này như là một nơi mình tâm sự cùng ae. Ngoài những giờ code thuê, ae mình còn có những thứ hay ho, vui nhộn khác trong cuộc sống cần được lan toả :).
 
 # Những công nghệ chính mà mình sử dụng.
 - Sẽ không có một ngôn ngữ cố định hay một framework nào cố định trong blog này. Những ngôn ngữ mà mình dùng sẽ mang mục đích chính là minh hoạ cho bài toán mình đang muốn truyền đạt. 
